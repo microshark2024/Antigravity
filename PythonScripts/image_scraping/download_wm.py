@@ -78,4 +78,4 @@ def download_wikimedia_images(query, total_images=100, output_dir="trump_photos"
     print(f"Successfully downloaded {downloaded} images from Wikimedia Commons.")
 
 if __name__ == "__main__":
-    download_wikimedia_images("Donald Trump", total_images=10)
+    download_wikimedia_images("特朗普", total_images=10)
