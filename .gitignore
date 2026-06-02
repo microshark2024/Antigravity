@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Scraper output
+**/trump_photos/
+**/trump_photos*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
