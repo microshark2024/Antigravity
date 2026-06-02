@@ -15,6 +15,9 @@ venv.bak/
 # Scraper output
 **/trump_photos/
 **/trump_photos*
+**/trump_videos/
+**/trump_videos*
+
 
 # IDEs and editors
 .vscode/
